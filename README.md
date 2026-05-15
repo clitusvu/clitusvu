@@ -101,9 +101,9 @@ hobbies:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=clitusvu&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=clitusvu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clitusvu&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clitusvu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -175,22 +175,17 @@ hobbies:
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-<h3 align="center">DaiLyBanVeMB</h3>
-
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/clitusvu/DaiLyBanVeMB">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=clitusvu&repo=DaiLyBanVeMB&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=clitusvu&repo=DaiLyBanVeMB&theme=tokyonight&hide_border=true"/>
 </a>
 
-</div>
-</td>
+<a href="https://github.com/clitusvu/clitusvu">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=clitusvu&repo=clitusvu&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
 
 <td width="50%">
 <h3 align="center">Main Profile</h3>
