@@ -101,9 +101,9 @@ hobbies:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=clitusvu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=clitusvu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clitusvu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clitusvu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -112,7 +112,7 @@ hobbies:
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=clitusvu&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=clitusvu&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -120,7 +120,7 @@ hobbies:
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=clitusvu&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=clitusvu&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -136,7 +136,7 @@ hobbies:
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/clitusvu/clitusvu/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/clitusvu/clitusvu/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -168,7 +168,7 @@ hobbies:
 # 🌌 Fun Animation
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b4f2e8c-1f8c-4eb8-91e4-f6bdbd67c7d0.gif" width="900"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="900"/>
 </p>
 
 ---
@@ -193,7 +193,7 @@ hobbies:
 </td>
 
 <td width="50%">
-<h3 align="center">Future Project</h3>
+<h3 align="center">Main Profile</h3>
 
 <div align="center">
 
