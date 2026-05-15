@@ -161,20 +161,6 @@ hobbies:
 
 ---
 
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/clitusvu/DaiLyBanVeMB">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=clitusvu&repo=DaiLyBanVeMB&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/clitusvu">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=clitusvu&show_icons=true&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
